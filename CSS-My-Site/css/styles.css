@@ -6,6 +6,7 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+/*Top container holds the top most part of the webpage like nav bar etc*/
 .top-container{
   background-color: #E4F9F5;
 }
